@@ -1,4 +1,5 @@
 from googleapiclient.discovery import build
+import re
 
 # read all stop words from "words.txt" into a list
 my_file = open("words.txt", "r")
@@ -33,7 +34,7 @@ class bcolors:
 
 # if relevant is TRUE, then return the top 5 frequent wrods from revelant snippets
 # if relevant is FALSE, then return top 5 frequent words from irrelevant snippets
-def extract_keywords(results, selected_list, current_query, relevant):
+def build_freq_dict(results, selected_list, current_query, relevant):
     curr_query_words = current_query.split()
     combined_snippets = ""
     dictionary = {}
@@ -46,6 +47,7 @@ def extract_keywords(results, selected_list, current_query, relevant):
             if num + 1 not in selected_list:
                 combined_snippets += results[num]["snippet"]
     combined_snippets = combined_snippets.lower()
+    combined_snippets = re.sub("[^a-zA-Z0-9 ]", "", combined_snippets)
     lst = combined_snippets.split()
     for elements in lst:
         count(elements, dictionary)

@@ -51,9 +51,9 @@ while True:
 
     print("Indexing results .... ")
     # Geeting top 5 frequent words in relevant snippets
-    selected_words = extract_keywords(results, selected_list, query, True)
+    selected_words = build_freq_dict(results, selected_list, query, True)
     # Getting top 5 frequent words in irrelevant snippets
-    no_words = extract_keywords(results, selected_list, query, False)
+    no_words = build_freq_dict(results, selected_list, query, False)
     # Add one to two words to q_dic
     select_keywords(selected_words, no_words, q_dic)
 
