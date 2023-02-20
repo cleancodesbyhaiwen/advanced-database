@@ -1,7 +1,7 @@
 # Query Expansion
  
 <p> This is a Python program that uses Rocchio's techique of query expansion. 
-Usage: python3 main.py <api_key> <engine_id> <precision> <query>
+Usage: python3 main.py api_key engine_id precision query
 
 <br>
 <p>Sometimes, a query term can refer to different things. For example, "jaguar" may refer to
