@@ -1,0 +1,1 @@
+python3 main.py AIzaSyA8_Fp-XCfK4hNXyx7kD5SF6lDLhgIsflM f188c466808db6e17 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 -spanBERT 2 0.8 "tech comapnies CEOs schools" 10
