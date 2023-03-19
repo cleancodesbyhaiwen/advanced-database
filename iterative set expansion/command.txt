@@ -1,1 +1,23 @@
+cd /usr/lib/python3/dist-packages
+sudo ln -s apt_pkg.cpython-36m-x86_64-linux-gnu.so apt_pkg.so
+cd ~
+sudo pip3 install --upgrade google-api-python-client
+
+sudo apt update
+sudo apt install python3-pip
+
+pip3 install beautifulsoup4
+
+sudo apt-get update
+pip3 install -U pip setuptools wheel
+pip3 install -U spacy
+python3 -m spacy download en_core_web_lg
+
+git clone https://github.com/zackhuiiiii/SpanBERT
+cd SpanBERT
+pip3 install -r requirements.txt
+bash download_finetuned.sh
+
+pip3 install openai
+
 python3 main.py AIzaSyA8_Fp-XCfK4hNXyx7kD5SF6lDLhgIsflM f188c466808db6e17 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 -spanBERT 2 0.8 "tech comapnies CEOs schools" 10
