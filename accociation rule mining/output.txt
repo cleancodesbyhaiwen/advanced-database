@@ -1,0 +1,214 @@
+Frequent Itemsets are: 
+Frequent Itemset 1: {'Uppereast'} Support: 0.59
+Frequent Itemset 2: {'AM'} Support: 0.45
+Frequent Itemset 3: {'PM'} Support: 0.56
+Frequent Itemset 4: {'Adult'} Support: 0.84
+Frequent Itemset 5: {'Main_Gray'} Support: 0.82
+Frequent Itemset 6: {'HL_Other'} Support: 0.37
+Frequent Itemset 7: {'Grond_Plane'} Support: 0.71
+Frequent Itemset 8: {'Foraging'} Support: 0.47
+Frequent Itemset 9: {'Indifferent'} Support: 0.47
+Frequent Itemset 10: {'Adult', 'HL_Other'} Support: 0.31
+Frequent Itemset 11: {'Main_Gray', 'Indifferent'} Support: 0.40
+Frequent Itemset 12: {'Adult', 'Uppereast'} Support: 0.51
+Frequent Itemset 13: {'Uppereast', 'PM'} Support: 0.32
+Frequent Itemset 14: {'PM', 'Grond_Plane'} Support: 0.42
+Frequent Itemset 15: {'Adult', 'Grond_Plane'} Support: 0.61
+Frequent Itemset 16: {'HL_Other', 'Main_Gray'} Support: 0.30
+Frequent Itemset 17: {'Adult', 'AM'} Support: 0.37
+Frequent Itemset 18: {'Foraging', 'Grond_Plane'} Support: 0.43
+Frequent Itemset 19: {'Uppereast', 'Main_Gray'} Support: 0.47
+Frequent Itemset 20: {'AM', 'Main_Gray'} Support: 0.36
+Frequent Itemset 21: {'Adult', 'PM'} Support: 0.47
+Frequent Itemset 22: {'Adult', 'Indifferent'} Support: 0.40
+Frequent Itemset 23: {'Main_Gray', 'Grond_Plane'} Support: 0.60
+Frequent Itemset 24: {'Adult', 'Main_Gray'} Support: 0.70
+Frequent Itemset 25: {'Foraging', 'Main_Gray'} Support: 0.39
+Frequent Itemset 26: {'Adult', 'Foraging'} Support: 0.42
+Frequent Itemset 27: {'Grond_Plane', 'Indifferent'} Support: 0.35
+Frequent Itemset 28: {'PM', 'Main_Gray'} Support: 0.46
+Frequent Itemset 29: {'Uppereast', 'Grond_Plane'} Support: 0.42
+Frequent Itemset 30: {'Adult', 'Foraging', 'Grond_Plane'} Support: 0.38
+Frequent Itemset 31: {'Adult', 'AM', 'Main_Gray'} Support: 0.31
+Frequent Itemset 32: {'Adult', 'Uppereast', 'Main_Gray'} Support: 0.41
+Frequent Itemset 33: {'Adult', 'Uppereast', 'Grond_Plane'} Support: 0.37
+Frequent Itemset 34: {'Adult', 'Grond_Plane', 'PM'} Support: 0.36
+Frequent Itemset 35: {'Adult', 'PM', 'Main_Gray'} Support: 0.39
+Frequent Itemset 36: {'Adult', 'Indifferent', 'Grond_Plane'} Support: 0.31
+Frequent Itemset 37: {'Grond_Plane', 'Main_Gray', 'Indifferent'} Support: 0.30
+Frequent Itemset 38: {'Grond_Plane', 'Uppereast', 'Main_Gray'} Support: 0.34
+Frequent Itemset 39: {'Adult', 'Grond_Plane', 'Main_Gray'} Support: 0.52
+Frequent Itemset 40: {'Grond_Plane', 'Main_Gray', 'PM'} Support: 0.35
+Frequent Itemset 41: {'Adult', 'Foraging', 'Main_Gray'} Support: 0.35
+Frequent Itemset 42: {'Grond_Plane', 'Foraging', 'Main_Gray'} Support: 0.36
+Frequent Itemset 43: {'Adult', 'Indifferent', 'Main_Gray'} Support: 0.34
+Frequent Itemset 44: {'Adult', 'PM', 'Main_Gray', 'Grond_Plane'} Support: 0.30
+Frequent Itemset 45: {'Adult', 'Grond_Plane', 'Uppereast', 'Main_Gray'} Support: 0.30
+Frequent Itemset 46: {'Adult', 'Main_Gray', 'Foraging', 'Grond_Plane'} Support: 0.32
+Accociation Rules are: 
+Accociation Rule 1: ['HL_Other'] -> ['Adult'] Confidence: 0.84
+Accociation Rule 2: ['Adult'] -> ['HL_Other'] Confidence: 0.37
+Accociation Rule 3: ['Indifferent'] -> ['Main_Gray'] Confidence: 0.84
+Accociation Rule 4: ['Main_Gray'] -> ['Indifferent'] Confidence: 0.48
+Accociation Rule 5: ['Uppereast'] -> ['Adult'] Confidence: 0.86
+Accociation Rule 6: ['Adult'] -> ['Uppereast'] Confidence: 0.60
+Accociation Rule 7: ['PM'] -> ['Uppereast'] Confidence: 0.58
+Accociation Rule 8: ['Uppereast'] -> ['PM'] Confidence: 0.55
+Accociation Rule 9: ['Grond_Plane'] -> ['PM'] Confidence: 0.58
+Accociation Rule 10: ['PM'] -> ['Grond_Plane'] Confidence: 0.75
+Accociation Rule 11: ['Grond_Plane'] -> ['Adult'] Confidence: 0.86
+Accociation Rule 12: ['Adult'] -> ['Grond_Plane'] Confidence: 0.73
+Accociation Rule 13: ['Main_Gray'] -> ['HL_Other'] Confidence: 0.37
+Accociation Rule 14: ['HL_Other'] -> ['Main_Gray'] Confidence: 0.83
+Accociation Rule 15: ['AM'] -> ['Adult'] Confidence: 0.84
+Accociation Rule 16: ['Adult'] -> ['AM'] Confidence: 0.44
+Accociation Rule 17: ['Grond_Plane'] -> ['Foraging'] Confidence: 0.61
+Accociation Rule 18: ['Foraging'] -> ['Grond_Plane'] Confidence: 0.92
+Accociation Rule 19: ['Main_Gray'] -> ['Uppereast'] Confidence: 0.57
+Accociation Rule 20: ['Uppereast'] -> ['Main_Gray'] Confidence: 0.80
+Accociation Rule 21: ['Main_Gray'] -> ['AM'] Confidence: 0.44
+Accociation Rule 22: ['AM'] -> ['Main_Gray'] Confidence: 0.82
+Accociation Rule 23: ['PM'] -> ['Adult'] Confidence: 0.84
+Accociation Rule 24: ['Adult'] -> ['PM'] Confidence: 0.56
+Accociation Rule 25: ['Indifferent'] -> ['Adult'] Confidence: 0.85
+Accociation Rule 26: ['Adult'] -> ['Indifferent'] Confidence: 0.48
+Accociation Rule 27: ['Grond_Plane'] -> ['Main_Gray'] Confidence: 0.84
+Accociation Rule 28: ['Main_Gray'] -> ['Grond_Plane'] Confidence: 0.73
+Accociation Rule 29: ['Main_Gray'] -> ['Adult'] Confidence: 0.85
+Accociation Rule 30: ['Adult'] -> ['Main_Gray'] Confidence: 0.83
+Accociation Rule 31: ['Main_Gray'] -> ['Foraging'] Confidence: 0.47
+Accociation Rule 32: ['Foraging'] -> ['Main_Gray'] Confidence: 0.82
+Accociation Rule 33: ['Foraging'] -> ['Adult'] Confidence: 0.88
+Accociation Rule 34: ['Adult'] -> ['Foraging'] Confidence: 0.50
+Accociation Rule 35: ['Indifferent'] -> ['Grond_Plane'] Confidence: 0.75
+Accociation Rule 36: ['Grond_Plane'] -> ['Indifferent'] Confidence: 0.50
+Accociation Rule 37: ['Main_Gray'] -> ['PM'] Confidence: 0.56
+Accociation Rule 38: ['PM'] -> ['Main_Gray'] Confidence: 0.83
+Accociation Rule 39: ['Grond_Plane'] -> ['Uppereast'] Confidence: 0.59
+Accociation Rule 40: ['Uppereast'] -> ['Grond_Plane'] Confidence: 0.72
+Accociation Rule 41: ['Foraging', 'Grond_Plane'] -> ['Adult'] Confidence: 0.88
+Accociation Rule 42: ['Adult', 'Grond_Plane'] -> ['Foraging'] Confidence: 0.63
+Accociation Rule 43: ['Grond_Plane'] -> ['Adult', 'Foraging'] Confidence: 0.54
+Accociation Rule 44: ['Adult', 'Foraging'] -> ['Grond_Plane'] Confidence: 0.92
+Accociation Rule 45: ['Foraging'] -> ['Adult', 'Grond_Plane'] Confidence: 0.81
+Accociation Rule 46: ['Adult'] -> ['Foraging', 'Grond_Plane'] Confidence: 0.46
+Accociation Rule 47: ['AM', 'Main_Gray'] -> ['Adult'] Confidence: 0.85
+Accociation Rule 48: ['Adult', 'Main_Gray'] -> ['AM'] Confidence: 0.44
+Accociation Rule 49: ['Main_Gray'] -> ['Adult', 'AM'] Confidence: 0.37
+Accociation Rule 50: ['Adult', 'AM'] -> ['Main_Gray'] Confidence: 0.83
+Accociation Rule 51: ['AM'] -> ['Adult', 'Main_Gray'] Confidence: 0.69
+Accociation Rule 52: ['Adult'] -> ['AM', 'Main_Gray'] Confidence: 0.37
+Accociation Rule 53: ['Main_Gray', 'Uppereast'] -> ['Adult'] Confidence: 0.87
+Accociation Rule 54: ['Adult', 'Main_Gray'] -> ['Uppereast'] Confidence: 0.58
+Accociation Rule 55: ['Main_Gray'] -> ['Adult', 'Uppereast'] Confidence: 0.50
+Accociation Rule 56: ['Adult', 'Uppereast'] -> ['Main_Gray'] Confidence: 0.81
+Accociation Rule 57: ['Uppereast'] -> ['Adult', 'Main_Gray'] Confidence: 0.70
+Accociation Rule 58: ['Adult'] -> ['Main_Gray', 'Uppereast'] Confidence: 0.49
+Accociation Rule 59: ['Grond_Plane', 'Uppereast'] -> ['Adult'] Confidence: 0.88
+Accociation Rule 60: ['Adult', 'Grond_Plane'] -> ['Uppereast'] Confidence: 0.60
+Accociation Rule 61: ['Grond_Plane'] -> ['Adult', 'Uppereast'] Confidence: 0.52
+Accociation Rule 62: ['Adult', 'Uppereast'] -> ['Grond_Plane'] Confidence: 0.73
+Accociation Rule 63: ['Uppereast'] -> ['Adult', 'Grond_Plane'] Confidence: 0.63
+Accociation Rule 64: ['Adult'] -> ['Grond_Plane', 'Uppereast'] Confidence: 0.44
+Accociation Rule 65: ['PM', 'Grond_Plane'] -> ['Adult'] Confidence: 0.87
+Accociation Rule 66: ['Adult', 'PM'] -> ['Grond_Plane'] Confidence: 0.77
+Accociation Rule 67: ['PM'] -> ['Adult', 'Grond_Plane'] Confidence: 0.65
+Accociation Rule 68: ['Adult', 'Grond_Plane'] -> ['PM'] Confidence: 0.59
+Accociation Rule 69: ['Grond_Plane'] -> ['Adult', 'PM'] Confidence: 0.51
+Accociation Rule 70: ['Adult'] -> ['PM', 'Grond_Plane'] Confidence: 0.43
+Accociation Rule 71: ['Main_Gray', 'PM'] -> ['Adult'] Confidence: 0.85
+Accociation Rule 72: ['Adult', 'Main_Gray'] -> ['PM'] Confidence: 0.56
+Accociation Rule 73: ['Main_Gray'] -> ['Adult', 'PM'] Confidence: 0.48
+Accociation Rule 74: ['Adult', 'PM'] -> ['Main_Gray'] Confidence: 0.84
+Accociation Rule 75: ['PM'] -> ['Adult', 'Main_Gray'] Confidence: 0.71
+Accociation Rule 76: ['Adult'] -> ['Main_Gray', 'PM'] Confidence: 0.47
+Accociation Rule 77: ['Grond_Plane', 'Indifferent'] -> ['Adult'] Confidence: 0.88
+Accociation Rule 78: ['Adult', 'Grond_Plane'] -> ['Indifferent'] Confidence: 0.51
+Accociation Rule 79: ['Grond_Plane'] -> ['Adult', 'Indifferent'] Confidence: 0.44
+Accociation Rule 80: ['Adult', 'Indifferent'] -> ['Grond_Plane'] Confidence: 0.77
+Accociation Rule 81: ['Indifferent'] -> ['Adult', 'Grond_Plane'] Confidence: 0.66
+Accociation Rule 82: ['Adult'] -> ['Grond_Plane', 'Indifferent'] Confidence: 0.37
+Accociation Rule 83: ['Indifferent', 'Main_Gray'] -> ['Grond_Plane'] Confidence: 0.76
+Accociation Rule 84: ['Indifferent', 'Grond_Plane'] -> ['Main_Gray'] Confidence: 0.85
+Accociation Rule 85: ['Indifferent'] -> ['Main_Gray', 'Grond_Plane'] Confidence: 0.64
+Accociation Rule 86: ['Main_Gray', 'Grond_Plane'] -> ['Indifferent'] Confidence: 0.51
+Accociation Rule 87: ['Main_Gray'] -> ['Indifferent', 'Grond_Plane'] Confidence: 0.37
+Accociation Rule 88: ['Grond_Plane'] -> ['Indifferent', 'Main_Gray'] Confidence: 0.42
+Accociation Rule 89: ['Main_Gray', 'Uppereast'] -> ['Grond_Plane'] Confidence: 0.72
+Accociation Rule 90: ['Main_Gray', 'Grond_Plane'] -> ['Uppereast'] Confidence: 0.56
+Accociation Rule 91: ['Main_Gray'] -> ['Uppereast', 'Grond_Plane'] Confidence: 0.41
+Accociation Rule 92: ['Uppereast', 'Grond_Plane'] -> ['Main_Gray'] Confidence: 0.80
+Accociation Rule 93: ['Uppereast'] -> ['Main_Gray', 'Grond_Plane'] Confidence: 0.57
+Accociation Rule 94: ['Grond_Plane'] -> ['Main_Gray', 'Uppereast'] Confidence: 0.47
+Accociation Rule 95: ['Main_Gray', 'Grond_Plane'] -> ['Adult'] Confidence: 0.86
+Accociation Rule 96: ['Adult', 'Main_Gray'] -> ['Grond_Plane'] Confidence: 0.74
+Accociation Rule 97: ['Main_Gray'] -> ['Adult', 'Grond_Plane'] Confidence: 0.63
+Accociation Rule 98: ['Adult', 'Grond_Plane'] -> ['Main_Gray'] Confidence: 0.84
+Accociation Rule 99: ['Grond_Plane'] -> ['Adult', 'Main_Gray'] Confidence: 0.72
+Accociation Rule 100: ['Adult'] -> ['Main_Gray', 'Grond_Plane'] Confidence: 0.61
+Accociation Rule 101: ['PM', 'Main_Gray'] -> ['Grond_Plane'] Confidence: 0.75
+Accociation Rule 102: ['PM', 'Grond_Plane'] -> ['Main_Gray'] Confidence: 0.83
+Accociation Rule 103: ['PM'] -> ['Main_Gray', 'Grond_Plane'] Confidence: 0.63
+Accociation Rule 104: ['Main_Gray', 'Grond_Plane'] -> ['PM'] Confidence: 0.58
+Accociation Rule 105: ['Main_Gray'] -> ['PM', 'Grond_Plane'] Confidence: 0.42
+Accociation Rule 106: ['Grond_Plane'] -> ['PM', 'Main_Gray'] Confidence: 0.49
+Accociation Rule 107: ['Foraging', 'Main_Gray'] -> ['Adult'] Confidence: 0.89
+Accociation Rule 108: ['Adult', 'Main_Gray'] -> ['Foraging'] Confidence: 0.50
+Accociation Rule 109: ['Main_Gray'] -> ['Adult', 'Foraging'] Confidence: 0.42
+Accociation Rule 110: ['Adult', 'Foraging'] -> ['Main_Gray'] Confidence: 0.83
+Accociation Rule 111: ['Foraging'] -> ['Adult', 'Main_Gray'] Confidence: 0.73
+Accociation Rule 112: ['Adult'] -> ['Foraging', 'Main_Gray'] Confidence: 0.41
+Accociation Rule 113: ['Foraging', 'Main_Gray'] -> ['Grond_Plane'] Confidence: 0.92
+Accociation Rule 114: ['Main_Gray', 'Grond_Plane'] -> ['Foraging'] Confidence: 0.60
+Accociation Rule 115: ['Main_Gray'] -> ['Foraging', 'Grond_Plane'] Confidence: 0.44
+Accociation Rule 116: ['Foraging', 'Grond_Plane'] -> ['Main_Gray'] Confidence: 0.83
+Accociation Rule 117: ['Foraging'] -> ['Main_Gray', 'Grond_Plane'] Confidence: 0.76
+Accociation Rule 118: ['Grond_Plane'] -> ['Foraging', 'Main_Gray'] Confidence: 0.50
+Accociation Rule 119: ['Main_Gray', 'Indifferent'] -> ['Adult'] Confidence: 0.86
+Accociation Rule 120: ['Adult', 'Main_Gray'] -> ['Indifferent'] Confidence: 0.49
+Accociation Rule 121: ['Main_Gray'] -> ['Adult', 'Indifferent'] Confidence: 0.42
+Accociation Rule 122: ['Adult', 'Indifferent'] -> ['Main_Gray'] Confidence: 0.85
+Accociation Rule 123: ['Indifferent'] -> ['Adult', 'Main_Gray'] Confidence: 0.72
+Accociation Rule 124: ['Adult'] -> ['Main_Gray', 'Indifferent'] Confidence: 0.41
+Accociation Rule 125: ['Grond_Plane', 'Main_Gray', 'PM'] -> ['Adult'] Confidence: 0.87
+Accociation Rule 126: ['Adult', 'Grond_Plane', 'Main_Gray'] -> ['PM'] Confidence: 0.59
+Accociation Rule 127: ['Grond_Plane', 'Main_Gray'] -> ['Adult', 'PM'] Confidence: 0.50
+Accociation Rule 128: ['Adult', 'Grond_Plane', 'PM'] -> ['Main_Gray'] Confidence: 0.84
+Accociation Rule 129: ['Grond_Plane', 'PM'] -> ['Adult', 'Main_Gray'] Confidence: 0.72
+Accociation Rule 130: ['Adult', 'Grond_Plane'] -> ['Main_Gray', 'PM'] Confidence: 0.49
+Accociation Rule 131: ['Grond_Plane'] -> ['Adult', 'Main_Gray', 'PM'] Confidence: 0.42
+Accociation Rule 132: ['Adult', 'Main_Gray', 'PM'] -> ['Grond_Plane'] Confidence: 0.77
+Accociation Rule 133: ['Main_Gray', 'PM'] -> ['Adult', 'Grond_Plane'] Confidence: 0.65
+Accociation Rule 134: ['Adult', 'Main_Gray'] -> ['Grond_Plane', 'PM'] Confidence: 0.43
+Accociation Rule 135: ['Main_Gray'] -> ['Adult', 'Grond_Plane', 'PM'] Confidence: 0.37
+Accociation Rule 136: ['Adult', 'PM'] -> ['Grond_Plane', 'Main_Gray'] Confidence: 0.65
+Accociation Rule 137: ['PM'] -> ['Adult', 'Grond_Plane', 'Main_Gray'] Confidence: 0.54
+Accociation Rule 138: ['Adult'] -> ['Grond_Plane', 'Main_Gray', 'PM'] Confidence: 0.36
+Accociation Rule 139: ['Main_Gray', 'Uppereast', 'Grond_Plane'] -> ['Adult'] Confidence: 0.89
+Accociation Rule 140: ['Adult', 'Main_Gray', 'Uppereast'] -> ['Grond_Plane'] Confidence: 0.73
+Accociation Rule 141: ['Main_Gray', 'Uppereast'] -> ['Adult', 'Grond_Plane'] Confidence: 0.64
+Accociation Rule 142: ['Adult', 'Main_Gray', 'Grond_Plane'] -> ['Uppereast'] Confidence: 0.58
+Accociation Rule 143: ['Main_Gray', 'Grond_Plane'] -> ['Adult', 'Uppereast'] Confidence: 0.50
+Accociation Rule 144: ['Adult', 'Main_Gray'] -> ['Uppereast', 'Grond_Plane'] Confidence: 0.43
+Accociation Rule 145: ['Main_Gray'] -> ['Adult', 'Uppereast', 'Grond_Plane'] Confidence: 0.36
+Accociation Rule 146: ['Adult', 'Uppereast', 'Grond_Plane'] -> ['Main_Gray'] Confidence: 0.81
+Accociation Rule 147: ['Uppereast', 'Grond_Plane'] -> ['Adult', 'Main_Gray'] Confidence: 0.71
+Accociation Rule 148: ['Adult', 'Uppereast'] -> ['Main_Gray', 'Grond_Plane'] Confidence: 0.59
+Accociation Rule 149: ['Uppereast'] -> ['Adult', 'Main_Gray', 'Grond_Plane'] Confidence: 0.51
+Accociation Rule 150: ['Adult', 'Grond_Plane'] -> ['Main_Gray', 'Uppereast'] Confidence: 0.49
+Accociation Rule 151: ['Grond_Plane'] -> ['Adult', 'Main_Gray', 'Uppereast'] Confidence: 0.42
+Accociation Rule 152: ['Adult'] -> ['Main_Gray', 'Uppereast', 'Grond_Plane'] Confidence: 0.36
+Accociation Rule 153: ['Grond_Plane', 'Foraging', 'Main_Gray'] -> ['Adult'] Confidence: 0.89
+Accociation Rule 154: ['Adult', 'Foraging', 'Grond_Plane'] -> ['Main_Gray'] Confidence: 0.83
+Accociation Rule 155: ['Foraging', 'Grond_Plane'] -> ['Adult', 'Main_Gray'] Confidence: 0.74
+Accociation Rule 156: ['Adult', 'Grond_Plane', 'Main_Gray'] -> ['Foraging'] Confidence: 0.62
+Accociation Rule 157: ['Grond_Plane', 'Main_Gray'] -> ['Adult', 'Foraging'] Confidence: 0.53
+Accociation Rule 158: ['Adult', 'Grond_Plane'] -> ['Foraging', 'Main_Gray'] Confidence: 0.52
+Accociation Rule 159: ['Grond_Plane'] -> ['Adult', 'Foraging', 'Main_Gray'] Confidence: 0.45
+Accociation Rule 160: ['Adult', 'Foraging', 'Main_Gray'] -> ['Grond_Plane'] Confidence: 0.92
+Accociation Rule 161: ['Foraging', 'Main_Gray'] -> ['Adult', 'Grond_Plane'] Confidence: 0.82
+Accociation Rule 162: ['Adult', 'Foraging'] -> ['Grond_Plane', 'Main_Gray'] Confidence: 0.76
+Accociation Rule 163: ['Foraging'] -> ['Adult', 'Grond_Plane', 'Main_Gray'] Confidence: 0.68
+Accociation Rule 164: ['Adult', 'Main_Gray'] -> ['Foraging', 'Grond_Plane'] Confidence: 0.46
+Accociation Rule 165: ['Main_Gray'] -> ['Adult', 'Foraging', 'Grond_Plane'] Confidence: 0.39
+Accociation Rule 166: ['Adult'] -> ['Grond_Plane', 'Foraging', 'Main_Gray'] Confidence: 0.38
